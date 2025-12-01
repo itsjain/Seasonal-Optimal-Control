@@ -1,5 +1,5 @@
 # Seasonal-Optimal-Control
-Code used in the production of figures in the manuscript
+This repository provides the MATLAB implementation of the climate-driven malaria model with seasonal optimal control exactly as used in the manuscript. The code is split into modular files for clarity: baseline simulation, optimal control (forward–backward sweep), climate forcing, and plotting. Running main.m reproduces all figures and results in the paper.
 
 
 The provided code implements three time-dependent controls:
