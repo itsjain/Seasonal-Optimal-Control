@@ -73,6 +73,7 @@ The model includes human (Sh, Eh, Ih, Rh) and mosquito (Am, Sm, Im) compartments
 Optimal control uses the forward–backward sweep method with three controls: personal protection, treatment, and vector control.
 
 Citation:If you use this code, please cite the associated manuscript.
+Jain, H., Raidas, S. K., & Sinha, A. K. (2026). A climate-based malaria transmission model with seasonal optimal control and cost-effective analysis. Chaos, Solitons & Fractals, 204, 117802. https://doi.org/10.1016/j.chaos.2025.117802
 
 Contact
 
